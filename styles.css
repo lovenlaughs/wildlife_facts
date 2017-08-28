@@ -597,7 +597,7 @@ section.animal .u-full-width {
 	}
 	h4 {
 		text-align: center;
-		padding-top: 30px;
+		/*padding-top: 30px;*/
 	}
 }
 
@@ -1722,9 +1722,9 @@ body.no-touch .wild:hover .titleBox, body.touch .wild.touchFocus .titleBox {
 		font-size: 24px;
 		margin-left: 5%;
    }
-   h4 {
+   /*h4 {
 		margin-top: 120%;
-   }
+   }*/
     #fox {
 		width: 60%;
 		margin-left: 20%;
@@ -1821,9 +1821,9 @@ body.no-touch .wild:hover .titleBox, body.touch .wild.touchFocus .titleBox {
 }
 
 @media only screen and (min-width: 1291px) and (max-width: 1399px) {
-	h4 {
+	/*h4 {
 		margin-top: -25%;
-	}
+	}*/
 	#fennec {
 		padding-left: 14%;
 	}
