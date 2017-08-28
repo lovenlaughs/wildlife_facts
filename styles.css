@@ -662,7 +662,7 @@ section.articles .u-full-width {
 @media only screen and (max-width: 1400px) {
     .offset-by-four.column {
         margin-left: 3%;
-		margin-top: 40%;
+		margin-top: 20%;
     }
     h1 {
         float: left;
