@@ -87,7 +87,7 @@
   .offset-by-three.column,
   .offset-by-three.columns        { margin-left: 26%;            }
   .offset-by-four.column,
-  .offset-by-four.columns         { margin-left: 28%; margin-top: -48%; text-align: center; }
+  .offset-by-four.columns         { margin-left: 28%; /*margin-top: -48%;*/ text-align: center; }
   .offset-by-five.column,
   .offset-by-five.columns         { margin-left: 43.3333333333%; }
   .offset-by-six.column,
