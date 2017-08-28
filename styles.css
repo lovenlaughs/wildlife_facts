@@ -805,7 +805,7 @@ section.articles .u-full-width {
 
 @media only screen and (min-width: 1051px) and (max-width: 1290px) {
     .offset-by-four.column {
-        margin-top: 20%;
+        margin-top: 10%;
     }
     #bird {
         margin-left: 25%;
@@ -818,7 +818,7 @@ section.articles .u-full-width {
 
 @media only screen and (min-width: 1291px) and (max-width: 1400px) {
     .offset-by-four.column {
-        margin-top: 40%;
+        margin-top: 20%;
     }
     #bird {
         margin-left: 25%;
