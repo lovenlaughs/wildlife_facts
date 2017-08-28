@@ -603,7 +603,7 @@ section.animal .u-full-width {
 
 @media only screen and (max-width: 1600px) {
 	.offset-by-four.columns {
-		margin-top: 50%;
+		margin-top: 20%;
 	}
 }
 
